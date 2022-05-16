@@ -1,7 +1,7 @@
 <p align="center">
     <img width="150px" src="https://avatars2.githubusercontent.com/u/16929016?s=500&v=4" align="center" alt="React Brasil Logo" />
     <p align="center">
-        Repositório responsável em cadastrar containers clientes, containers e movimentações dos mesmos.
+        Código responsável em cadastrar clientes, containers e movimentações dos mesmos.
     </p>
 </p>
 <br />
